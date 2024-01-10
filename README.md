@@ -1,7 +1,7 @@
 # HELLO WORLD!
 
 ## Me chamo Gabriela Donato , Bem-vindo ao meu perfil no GitHub :)
-- 👪 Nascida em Guarujá ,SP.
+- 👪 Nascida em Guarujá , SP.
 - 📚 Sou estudante de Análise e Desenvolvimento de sistemas.
 - 💘 Uma apaixonada pela tecnologia , musica , Gym e animais.  
 
