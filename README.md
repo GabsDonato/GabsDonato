@@ -1,12 +1,12 @@
 
-# Bem-vindo ao meu Github👋
+# Bem-vindos ao meu Github👋
 
 ## 🚀 Sobre mim
 Guarujá - SP :round_pushpin:
 
 Análise e desenvolvimento de sistemas - UNINTER.
 
-Sou estudante apaixonada por tecnologia e design, com fundamentos sólidos em UX/UI design e Front-end development. Atualmente, estou mergulhando no mundo do Python e SQL para expandir minhas habilidades e conhecimentos.
+Sou uma estudante apaixonada por tecnologia e design, com fundamentos sólidos em UX/UI design e Front-end development. Atualmente, estou mergulhando no mundo do Python e SQL para expandir minhas habilidades e conhecimentos.
 
 ## 🎨 Experiência em UX/UI Design
 Criação de interfaces: Desenvolvimento de designs intuitivos e visualmente atraentes.
