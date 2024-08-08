@@ -30,5 +30,3 @@ Desenvolvimento com programação para ambientes SAP através do curso **Consult
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-donato-8034361ab/)
 
 Estou sempre aberta a novas oportunidades e desafios! Se você estiver interessado em colaborar ou apenas bater um papo sobre tecnologia e design, sinta-se à vontade para me contatar.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=omni_icons=true)
