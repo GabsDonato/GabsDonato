@@ -1,19 +1,28 @@
-# HELLO WORLD!
 
-## Me chamo Gabriela Donato , Bem-vindo ao meu perfil no GitHub :)
-- 👪 Nascida em Guarujá , SP.
-- 📚 Sou estudante de Análise e Desenvolvimento de sistemas.
-- 💘 Uma apaixonada pela tecnologia , musica , Gym e animais.  
+# Bem-vindo ao meu Github👋
 
-### Estou aprendendo sobre:
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+## 🚀 Sobre mim
+Sou estudante apaixonada por tecnologia e design, com fundamentos sólidos em UX/UI design e Front-end development. Atualmente, estou mergulhando no mundo do Python e SQL para expandir minhas habilidades e conhecimentos.
 
+## 🎨 Experiência em UX/UI Design
+Criação de interfaces: Desenvolvimento de designs intuitivos e visualmente atraentes.
+Pesquisa de usuário: Análise e aplicação de feedback para otimizar a experiência do usuário.
 
-### Skills:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabsDonato)![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 💻 Front-end Development
+Tecnologias: HTML, CSS, JavaScript.  
+Frameworks: Bootstrap.
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-donato-8034361ab/)
+## 🐍 Aprendendo Python e SQL
+Python: Explorando automação, análise de dados e desenvolvimento de scripts.
+SQL: Manipulação e análise de dados em bancos de dados relacionais.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabss.donato/)
+## 💡 Experiência com SAB ABAP
+Experiência em ABAP:                     
+Desenvolvimento com programação para ambientes SAP através do curso **Consultor ABAP**.
 
+## 📫 Vamos nos conectar!
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabsdonato.github.io/Portfolio/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-donato-8034361ab/)
+
+Estou sempre aberta a novas oportunidades e desafios! Se você estiver interessado em colaborar ou apenas bater um papo sobre tecnologia e design, sinta-se à vontade para me contatar.
