@@ -16,9 +16,6 @@ Pesquisa de usuário: Análise e aplicação de feedback para otimizar a experi�
 Tecnologias: HTML, CSS, JavaScript.  
 Frameworks: Bootstrap.
 
-## 🐍 Aprendendo Python 
-Python: Explorando automação, análise de dados e desenvolvimento de scripts.
-
 ## 💡 Experiência com SAB ABAP
 Experiência em ABAP:                     
 Desenvolvimento com programação para ambientes SAP através do curso **Consultor ABAP**.
