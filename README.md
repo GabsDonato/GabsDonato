@@ -31,7 +31,7 @@ Linguagens & Tecnologias: `Javascript`, `Documentation`, `React`, `SAP ABAP`\
 Projetos em destaque: Dell, Volvo.
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="DellaVolpe" src="https://dellavolpe.com.br/wp-content/uploads/logo-dellavolpe.svg"/>](https://dellavolpe.com.br//)
+[<img align="left" height="80px" width="80px" alt="DellaVolpe" src="https://dellavolpe.com.br/wp-content/uploads/logo-dellavolpe.svg"/>](https://dellavolpe.com.br//)
 
 **Estágiaria** \
 [**Della Volpe**](https://dellavolpe.com.br/) • Contract \
