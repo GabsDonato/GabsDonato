@@ -8,16 +8,11 @@
 
 Sou uma estudante apaixonada por tecnologia e design, com fundamentos sólidos em UX/UI design e Front-end development. Atualmente, estou mergulhando no mundo do Back-end para expandir minhas habilidades e conhecimentos.
 
-## 🎨 Experiência em UX/UI Design
-Criação de interfaces: Desenvolvimento de designs intuitivos e visualmente atraentes.
-Pesquisa de usuário: Análise e aplicação de feedback para otimizar a experiência do usuário.
-
-## 💻 Front-end Development
-Tecnologias: `HTML`, `CSS`, `JavaScript`.  
-Frameworks and libraries: `Bootstrap`, `React`.
-
 ## :1234: Back-End Development
 Tecnologias: `Java` , `ABAP` , `Typescript`, `Node.js`.
+
+## :notebook_with_decorative_cover: Frameworks and libraries: 
+`Bootstrap`, `React`.
 
 ### Experiência de trabalho
 
