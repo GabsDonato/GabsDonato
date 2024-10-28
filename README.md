@@ -17,7 +17,7 @@ Tecnologias: `HTML`, `CSS`, `JavaScript`.
 Frameworks and libraries: `Bootstrap`, `React`.
 
 ## :1234: Back-End Development
-Tecnologias: `Java` , `ABAP` , `Typescript`, `Node js`.
+Tecnologias: `Java` , `ABAP` , `Typescript`, `Node.js`.
 
 ### Experiência de trabalho
 
