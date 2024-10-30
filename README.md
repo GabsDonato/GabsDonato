@@ -34,6 +34,6 @@ Linguagens & Tecnologias: `SAP ABAP`\
 <br/>
 
 ## 📫 Vamos nos conectar!
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabsdonato.github.io/Portfolio/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-donato-8034361ab/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabsdonato.github.io/Meu-portfolio/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-donato-8034361ab/)
 
 Estou sempre aberta a novas oportunidades e desafios! Se você estiver interessado em colaborar ou apenas bater um papo sobre tecnologia e design, sinta-se à vontade para me contatar.
