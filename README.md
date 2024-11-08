@@ -9,7 +9,7 @@
 Sou uma estudante apaixonada por tecnologia e design, com fundamentos sólidos em UX/UI design e Front-end development. Atualmente, estou mergulhando no mundo do Back-end para expandir minhas habilidades e conhecimentos.
 
 ## :1234: Back-End Development
-Tecnologias: `Java` , `ABAP` , `Typescript`, `Node.js`.
+Tecnologias: `Java` , `ABAP` , `Typescript`, `Node.js`, `C#`.
 
 ## :notebook_with_decorative_cover: Frameworks and libraries: 
 `Bootstrap`, `React`.
@@ -22,7 +22,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Estágiaria** \
 [**Stefanini Group**](https://stefanini.com/pt-br) • At the moment \
-Linguagens & Tecnologias: `Javascript`, `Documentation`, `React`, `SAP ABAP`\
+Linguagens & Tecnologias: `C#`, `Documentation`, `React`, `SAP ABAP`\
 Projetos em destaque: Dell, Volvo.
 <br/>
 
