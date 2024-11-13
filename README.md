@@ -11,9 +11,6 @@ Sou uma estudante apaixonada por tecnologia e design, com fundamentos sólidos e
 ## :1234: Back-End Development
 Tecnologias: `Java` , `ABAP` , `Typescript`, `Node.js`, `C#`.
 
-## :notebook_with_decorative_cover: Frameworks and libraries: 
-`Bootstrap`, `React`.
-
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
