@@ -1,10 +1,9 @@
 
 # Hi , everyone 👋
 
-## 🚀 About me 
-:round_pushpin: Brazil - SP 
+### :woman: About me 
 
-:mortar_board: Systems analysis and development - UNINTER.
+:mortar_board: Systems analysis and development - UNINTER | :round_pushpin: Brazil - SP 
 
 Technology Student | Aspiring Back-End Developer
 
@@ -12,7 +11,9 @@ I am a technology student passionate about creating robust and efficient solutio
 
 I am committed to continuous learning and sharing the projects and challenges I encounter along my journey. I'm excited about the endless possibilities in the tech field and eager to contribute to the development of innovative solutions.
 
-### Work experiences
+<hr>
+
+### :briefcase: Work experiences
 
 In the overview below you will find my most recent work experience:
 
@@ -31,7 +32,9 @@ Featured projects: Dell chile, Volvo.
 Languages and technology: `SAP ABAP`\
 <br/>
 
-## 📫 Let's connect!
+<hr>
+
+### 📫 Let's connect!
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabsdonato.github.io/Meu-portfolio/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-donato-8034361ab/)
 
 I am always open to new opportunities and challenges! If you're interested in collaborating or just chatting about technology and design, feel free to contact me.
