@@ -7,7 +7,7 @@
 
 Technology Student | Aspiring Back-End Developer
 
-I am a technology student passionate about creating robust and efficient solutions. Currently, I'm deepening my knowledge in various languages and frameworks, including C#, Node.js, React, TypeScript, Java, and SAP ABAP. My goal is to become a skilled back-end developer, building scalable and high-performance systems and APIs.
+I am a technology student about creating robust and efficient solutions. Currently, I'm deepening my knowledge in various languages and frameworks, including C#, Node.js, React, TypeScript, Java, and SAP ABAP. My goal is to become a skilled back-end developer, building scalable and high-performance systems and APIs.
 
 I am committed to continuous learning and sharing the projects and challenges I encounter along my journey. I'm excited about the endless possibilities in the tech field and eager to contribute to the development of innovative solutions.
 
