@@ -1,7 +1,7 @@
 
 # Hi , everyone 👋
 
-### :woman: About me 
+## About me 
 
 :mortar_board: Systems analysis and development - UNINTER | :round_pushpin: Brazil - SP 
 
