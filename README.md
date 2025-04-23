@@ -1,40 +1,42 @@
-
-# Hi , everyone 👋
+# Hi, everyone 👋
 
 ## About me 
 
-:mortar_board: Systems analysis and development - UNINTER | :round_pushpin: Brazil - SP 
+🎓 Systems Analysis and Development @ UNINTER | 📍 Guarujá - SP, Brazil  
 
-Technology Student | Aspiring Back-End Developer
+🌐 Technology student focused on building clean, responsive and accessible web interfaces.  
+🎯 Aspiring Front-End Developer, passionate about transforming design into interactive and scalable digital experiences.
 
-I am a technology student about creating robust and efficient solutions. Currently, I'm deepening my knowledge in various languages and frameworks, including C#, Node.js, React, TypeScript, Java, and SAP ABAP. My goal is to become a skilled back-end developer, building scalable and high-performance systems and APIs.
+I'm currently specializing in Front-End development with technologies like **React.js**, **TypeScript**, and **JavaScript**, while also exploring design principles such as **UX/UI**, **responsive layout**, and **component-based architecture**. 
 
-I am committed to continuous learning and sharing the projects and challenges I encounter along my journey. I'm excited about the endless possibilities in the tech field and eager to contribute to the development of innovative solutions.
+My background includes real project experience in agile teams (Scrum), contributing to tasks like documentation, daily meetings, and collaborative problem solving. I’m constantly evolving and eager to apply my knowledge to create intuitive solutions that generate real value for users.
 
 <hr>
 
-### :briefcase: Work experiences
+### 💼 Work Experience
 
-In the overview below you will find my most recent work experience:
+Below you’ll find some of my most recent professional experiences:
 
 [<img align="left" height="80px" width="80px" alt="StefaniniGroup" src="https://stefanini.com/pt-br/wp-content/uploads/sites/3/2022/07/stefanini_logo-1.png"/>](https://stefanini.com/pt-br)
 
 **Intern** \
-[**Stefanini Group**](https://stefanini.com/pt-br) • At the moment \
-Languages and technology: `C#`, `Documentation`, `React`, `SAP ABAP`\
-Featured projects: Dell chile, Volvo.
+[**Stefanini Group**](https://stefanini.com/pt-br) • Currently \
+Technologies: `React`, `C#`, `SAP ABAP`, `Technical Documentation`\
+Projects: Dell Chile, Volvo\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="DellaVolpe" src="https://dellavolpe.com.br/wp-content/uploads/logo-dellavolpe.svg"/>](https://dellavolpe.com.br//)
+[<img align="left" height="80px" width="80px" alt="DellaVolpe" src="https://dellavolpe.com.br/wp-content/uploads/logo-dellavolpe.svg"/>](https://dellavolpe.com.br/)
 
 **Intern** \
 [**Della Volpe**](https://dellavolpe.com.br/) • Contract \
-Languages and technology: `SAP ABAP`\
+Technology: `SAP ABAP`\
 <br/>
 
 <hr>
 
 ### 📫 Let's connect!
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabsdonato.github.io/Meu-portfolio/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-donato-8034361ab/)
 
-I am always open to new opportunities and challenges! If you're interested in collaborating or just chatting about technology and design, feel free to contact me.
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabsdonato.github.io/Meu-portfolio/)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-donato-8034361ab/)
+
+I'm always open to connecting with other tech enthusiasts, collaborating on exciting projects, or sharing ideas about front-end development and design. Let's talk!
