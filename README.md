@@ -22,7 +22,7 @@ Below you’ll find some of my most recent professional experiences:
 **Intern** \
 [**Stefanini Group**](https://stefanini.com/pt-br) • Currently \
 Technologies: `React`, `C#`, `SAP ABAP`, `Technical Documentation`\
-Projects: Dell Chile, Volvo\
+Projects: Dell , Volvo\
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="DellaVolpe" src="https://dellavolpe.com.br/wp-content/uploads/logo-dellavolpe.svg"/>](https://dellavolpe.com.br/)
