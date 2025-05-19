@@ -2,7 +2,7 @@
 
 ## About me 
 
-🎓 Systems Analysis and Development @ UNINTER | 📍 Guarujá - SP, Brazil  
+🎓 Systems Analysis and Development @UNINTER | 📍 Guarujá - SP, Brazil  
 
 🌐 Technology student focused on building clean, responsive and accessible web interfaces.  
 🎯 Aspiring Front-End Developer, passionate about transforming design into interactive and scalable digital experiences.
