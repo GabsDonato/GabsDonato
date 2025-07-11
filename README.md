@@ -20,7 +20,7 @@ Below you’ll find some of my most recent professional experiences:
 [<img align="left" height="80px" width="80px" alt="StefaniniGroup" src="https://stefanini.com/pt-br/wp-content/uploads/sites/3/2022/07/stefanini_logo-1.png"/>](https://stefanini.com/pt-br)
 
 **Intern** \
-[**Stefanini Group**](https://stefanini.com/pt-br) • Currently \
+[**Stefanini Group**](https://stefanini.com/pt-br) • Contract \
 Technologies: `React`, `C#`, `SAP ABAP`, `Technical Documentation`\
 Projects: Dell , Volvo\
 <br/>
