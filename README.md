@@ -27,7 +27,6 @@ Projects: _Dell , Volvo_\
 
 [<img align="left" height="80px" width="80px" alt="DellaVolpe" src="https://dellavolpe.com.br/wp-content/uploads/logo-dellavolpe.svg"/>](https://dellavolpe.com.br/)
 
-
 **Intern** \
 [**Della Volpe**](https://dellavolpe.com.br/) • Contract \
 Technology: `SAP ABAP`\
